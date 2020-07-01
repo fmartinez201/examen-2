@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;800&family=Raleway:wght@100&display=swap');
+
+body{
+	font-family: 'Montserrat', sans-serif,'Raleway', sans-serif;
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: relative;
+	background-color: #000;
+	width: 100%;
+	top:0;
+}
+
+#slides h1{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	color: #fff;
+	text-align: left;
+}
+#slides p{
+	font-family: 'Raleway', sans-serif;
+	color: #fff;
+	text-align: left;
+}
+
+#services{
+	padding: 30px;
+	font-size: 10px;
+	color: #444444;
+}
+
+.circulo{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	line-height: 100px;
+	/*border: 1px solid #00D9D9;*/
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 15px 0px #00D9D9;
+	font-size: 40px;
+	color: #00D9D9;
+}
+
+
+#services h2{
+	text-align: center;
+}
+
+#about h3{
+text-align: center;
+}
+
+#about img{
+	padding: 30px;
+}
+
+#doctors{
+	align-content: center;
+	text-align: center;
+}
+
+#testimonios{
+	background-color:#F9F9F9;
+	align-content: center;
+	text-align: center;
+	padding: 50px;
+}
+
+#testimonios h2{
+	padding: 30px;
+}
+
+footer{
+	background-color: #222;
+	color:#BABABA;
+	padding: 50px;
+}
+	
